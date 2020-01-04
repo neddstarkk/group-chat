@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "840666038651",
+    "firebase_url": "https://flash-chat-6c25a.firebaseio.com",
+    "project_id": "flash-chat-6c25a",
+    "storage_bucket": "flash-chat-6c25a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840666038651:android:9a56bd91883a03d9c5fdde",
+        "android_client_info": {
+          "package_name": "com.nedheesh.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840666038651-3apmk20kc318552pba85kdlckmrnh7kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuzTgWi9zRZERdLrXlsTne9W7k3V_ClKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840666038651-3apmk20kc318552pba85kdlckmrnh7kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
