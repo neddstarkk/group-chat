@@ -32,7 +32,9 @@ class _LoginScreenState extends State<LoginScreen> {
               height: 48.0,
             ),
             TextField(
-              onChanged: (value) {
+                keyboardType: TextInputType.emailAddress,
+                textAlign: TextAlign.center,
+                onChanged: (value) {
                 //Do something with the user input.
               },
               decoration: kTextFieldDecoration.copyWith(
@@ -43,6 +45,7 @@ class _LoginScreenState extends State<LoginScreen> {
               height: 8.0,
             ),
             TextField(
+              textAlign: TextAlign.center,
               onChanged: (value) {
                 //Do something with the user input.
               },
